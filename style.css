@@ -1,0 +1,17 @@
+
+
+.div1{
+    border:1px solid black;
+    padding:0 15px 15px;
+}
+
+.cenimg{
+    height:300px;
+    width:500px;
+    display:block;
+    margin-bottom:15px;
+}
+ 
+.main{
+    padding-left:20px;
+}
